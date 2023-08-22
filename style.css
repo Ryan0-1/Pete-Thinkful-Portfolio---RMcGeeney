@@ -43,7 +43,7 @@ p {
 }
 
 /* The div container constrains the content width within the main container to 600px */
-div {
+.mainContainer {
   margin: auto;
   width: 600px;
 }
