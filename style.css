@@ -81,12 +81,12 @@ nav {
     justify-content: space-evenly;
 }
 
-about div {
+#about div {
   display: flex;
   justify-content: space-evenly;
 }
 
-portfolio p {
+#portfolio p {
   text-align: left;
 }
 
