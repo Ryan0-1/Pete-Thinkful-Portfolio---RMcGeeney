@@ -89,3 +89,8 @@ about div {
 portfolio p {
   text-align: left;
 }
+
+header, about, hr, portfolio, contact, footer {
+  margin: auto;
+  width: 600px;
+}  
