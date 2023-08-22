@@ -89,9 +89,3 @@ about div {
 portfolio p {
   text-align: left;
 }
-
-container {
-  width: 60%;
-  max-width: 800px;
-  margin: 0 20%;
-}
